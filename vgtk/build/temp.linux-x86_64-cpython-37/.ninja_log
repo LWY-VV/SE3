@@ -1,0 +1,7 @@
+# ninja log v5
+0	5813	1685846936017732621	/home/wangyi/se3_equivariant_place_recognition-master/vgtk/build/temp.linux-x86_64-cpython-37/vgtk/cuda/gathering_cuda_kernel.o	d3861c336ce6fc58
+0	12696	1685846942898086366	/home/wangyi/se3_equivariant_place_recognition-master/vgtk/build/temp.linux-x86_64-cpython-37/vgtk/cuda/gathering_cuda.o	7271db4fa4e59b2
+0	6700	1685846949838441121	/home/wangyi/se3_equivariant_place_recognition-master/vgtk/build/temp.linux-x86_64-cpython-37/vgtk/cuda/grouping_cuda_kernel.o	42f362b2ace10a0
+0	13171	1685846956306769896	/home/wangyi/se3_equivariant_place_recognition-master/vgtk/build/temp.linux-x86_64-cpython-37/vgtk/cuda/grouping_cuda.o	76bce96d98a719e6
+0	5776	1685846962303073105	/home/wangyi/se3_equivariant_place_recognition-master/vgtk/build/temp.linux-x86_64-cpython-37/vgtk/cuda/zpconv_cuda_kernel.o	9b0022194c751a1d
+0	12521	1685846969043412153	/home/wangyi/se3_equivariant_place_recognition-master/vgtk/build/temp.linux-x86_64-cpython-37/vgtk/cuda/zpconv_cuda.o	126c01596c4632bb

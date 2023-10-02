@@ -1,0 +1,7 @@
+# ninja log v5
+0	9279	1691276700415122042	/root/Desktop/SE3_robot1/vgtk/build/temp.linux-x86_64-3.8/vgtk/cuda/gathering_cuda.o	10b85c09e961cdce
+0	15833	1691276706971196225	/root/Desktop/SE3_robot1/vgtk/build/temp.linux-x86_64-3.8/vgtk/cuda/gathering_cuda_kernel.o	85ada0f9d3243e12
+0	9514	1691276716699306125	/root/Desktop/SE3_robot1/vgtk/build/temp.linux-x86_64-3.8/vgtk/cuda/grouping_cuda.o	2a68394f4d6d8271
+0	20580	1691276727763430868	/root/Desktop/SE3_robot1/vgtk/build/temp.linux-x86_64-3.8/vgtk/cuda/grouping_cuda_kernel.o	91cca55ffc1a396c
+0	9197	1691276737175536779	/root/Desktop/SE3_robot1/vgtk/build/temp.linux-x86_64-3.8/vgtk/cuda/zpconv_cuda.o	451259bd127a3c62
+0	16323	1691276744299616820	/root/Desktop/SE3_robot1/vgtk/build/temp.linux-x86_64-3.8/vgtk/cuda/zpconv_cuda_kernel.o	43934dabd2f6fda7
