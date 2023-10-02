@@ -1,14 +1,14 @@
 # SE3 Robot
 
-1. install vgtk
+1. install vgtk:
     cd vgtk
     python setup.py install
 
-2. install transforms3d
+2. install transforms3d:
 pip install transforms3d
 
 
-3. install differentiable-robot-model
+3. install differentiable-robot-model:
 cd differentiable-robot-model
 python setup.py develop
 
